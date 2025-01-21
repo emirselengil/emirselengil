@@ -12,5 +12,5 @@ Hello, my name is Emir SELENGİL. As a computer engineering student at Eskişehi
 <a href="https://instagram.com/emirselengil26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
    
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emirselengil&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emirselengil&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirselengil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
