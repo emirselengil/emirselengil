@@ -14,3 +14,5 @@ Hello, my name is Emir SELENGİL. As a computer engineering student at Eskişehi
    
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emirselengil&show_icons=true&theme=radical) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirselengil&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/> 
+
+<br> ![](https://github-readme-streak-stats.herokuapp.com/?user=emirselengil&theme=great-gatsby&hide_border=false)<br/>
